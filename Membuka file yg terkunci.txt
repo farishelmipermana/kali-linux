@@ -1,0 +1,3 @@
+buka terminal dimana folder kita dikunci
+ketikkan sudo 777 <nama folder>
+maka folder tersebut telah terbuka
